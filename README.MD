@@ -1,3 +1,9 @@
+
+# 本项目已封存
+项目已迁移至https://github.com/Rackar/rackar.github.io
+脚本和配置方式的更新都在新库。
+
+-----------------------------------------------
 # Codingyang Blog
 
 ## Intro 介绍
